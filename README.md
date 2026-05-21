@@ -1,24 +1,14 @@
-# Hi, I'm Ryan 👋
+# Hi, I'm rngauf 👋
 
-Service Operations Manager · AI & Automation Builder · US Army Veteran (OH-58 Crew Chief) · Ex-Boeing KC-46 · Utah / Remote
+Solo operator. Most of what's here is built around three things:
 
-I build things to keep my mechanical and technical skills sharp. Most of what's here is from the last five years — primary-caregiver / homeschool-lead chapter while my wife scaled her career. Returning to full-time W-2 work in 2026.
+- 🤖 **Claude Code + agentic tooling** — sub-agents, MCP servers, multi-agent architectures, dashboards
+- 🏠 **Self-hosted everything** — Unraid homelab, Jellyfin, Immich, Tailscale, Batocera
+- 🛠️ **Real tools for real workflows** — disc ripping, audiobook management, USB multiboot, pentesting reference, trading research
 
-**Background:** OH-58 Kiowa Warrior crew chief (MOS 15V) → Boeing Everett heavy-structures mechanic on the KC-46 Pegasus tanker (lower nose section, .001-inch tolerances) → service lead at Four Day Fireplace during its run as the fastest-growing fireplace business in the western US.
+Everything below is something I actually use. If it's published here, the code is running on my machine right now or the docs reflect a build I actually completed.
 
-If it's published here, the code runs on my machine right now or the docs reflect a build I actually completed.
-
----
-
-## 🎯 Open to
-
-- **Service operations leadership** — Service Director, Director of Operations, Service Manager
-- **Aerospace QA & sustainment** — quality / operations management at Hill AFB, Tooele, defense primes
-- **Senior technical roles** — Solutions Engineer, TAM, Implementation Manager, Customer Success
-- Utah-local · Hill AFB / Ogden corridor · Tooele · Remote nationwide · Travel up to 50%
-- Secret clearance history (inactive, renewable)
-
-🔗 [LinkedIn](https://linkedin.com/in/ryangauf) · 📧 rngauf@gmail.com
+🔗 [LinkedIn](https://linkedin.com/in/ryangauf) — if you want the longer story.
 
 ---
 
@@ -81,7 +71,7 @@ If it's published here, the code runs on my machine right now or the docs reflec
 |---|---|
 | Coding | VS Code + Claude Code extension |
 | Models | Claude Opus / Sonnet / Haiku |
-| Automation | n8n (learning) |
+| Automation | n8n |
 | Knowledge | Obsidian |
 | Homelab | Unraid + Tailscale |
 | Media server | Jellyfin (Intel Arc A310 transcoding) |
@@ -93,4 +83,4 @@ If it's published here, the code runs on my machine right now or the docs reflec
 
 ## 📬 Reach me
 
-Best path: open an issue on the relevant repo, or message me on [LinkedIn](https://linkedin.com/in/ryangauf). Pull requests welcome.
+Open an issue on any repo if you find a bug, have a question, or want to suggest an improvement. Pull requests welcome.
